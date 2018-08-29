@@ -11,6 +11,8 @@
 #define PRODUCT         keyboard
 #define DESCRIPTION     Keyboard
 
+#define FORCE_NKRO
+
 /* key matrix size */
 #define MATRIX_ROWS 4
 #define MATRIX_COLS 12

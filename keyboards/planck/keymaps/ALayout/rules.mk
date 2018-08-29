@@ -4,3 +4,4 @@ endif
 
 AUDIO_ENABLE = no
 MOUSEKEY_ENABLE = yes
+BOOTMAGIC_ENABLE = yes
